@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color: #DCDCDC;
+    font-family: "Inter";
+}
+.divproject1{
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+width: 25%;
+margin: auto;
+height: 550px;
+border-radius: 10px;
+background-color: white;
+margin-top: 30px;
+}
+.imgmoto{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 423px;
+    height: 250px;
+}
+.imgelon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin: 20px;
+}
+button{
+    margin-left: 20px;
+    margin-top: 27px;
+    background-color: #00BFFF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 120px;
+    height: 25px;
+}
+.h3project1{
+margin-left: 20px;
+}
+.phaut{
+margin: 20px;
+}
+.h4project1{
+    margin-top: 40px;
+}
+.h5project1{
+    margin-top: 20px;
+    color: grey;
+}
